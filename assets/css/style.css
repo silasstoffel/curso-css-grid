@@ -10,14 +10,13 @@
   grid-template-rows: 50px 100vh auto;
 }
 
-.cabecalho {  
+.cabecalho {
   grid-area: cabecalho;
   height: 50px;
 }
 
 .conteudo {
   grid-area: conteudo;
-  background: salmon;
 }
 
 .rodape {
